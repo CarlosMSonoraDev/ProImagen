@@ -1,0 +1,66 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.tabla-admin-usrs{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    border-collapse: collapse;
+    color: #fff;
+    margin-top: 4rem;
+    
+}
+
+.thead{
+    background-color: rgb(37, 37, 37);
+    color: #FFFFFF;
+    height: 3rem;
+}
+
+.filas{
+    background-color: rgb(48, 48, 48);
+    height: 2rem;
+}
+
+.titulo-adm{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.box-titulo-adm{
+    margin-left: 10.5rem;
+    margin-top: 4rem;
+}
+
+.btn-editar{
+    text-decoration: none;
+    color: #fff;
+}
+
+.modal-adm-usr{
+    margin-top: 18rem;
+}
+
+.titulo-admin-usr{
+    font-family: 'montserrat', sans-serif;
+    color: rgb(84, 84, 84);
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-left: 1.7rem;
+    margin-top: 1.5rem;
+}
+
+.btn-borrar-usr{
+    margin-left: 3rem;
+}
